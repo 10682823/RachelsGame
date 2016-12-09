@@ -1,0 +1,18 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ColorChoice.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PowerUpAddHealth.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\PowerUp.cs" Line="11" Column="3" />
+      <File FileName="Assets\Scripts\PowerUpRecycler.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\Damage.cs" Line="19" Column="27" />
+      <File FileName="Assets\Scripts\PlayerHealth.cs" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\PowerUpMinusHealth.cs" Line="14" Column="1" />
+      <File FileName="Assets\Scripts\ColorChoice.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
